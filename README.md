@@ -4,7 +4,7 @@
 
 <a href="https://www.linkedin.com/in/afonso-bezerra-33b495174/" target="_blank">
     <h1 align="center">
-       Gabriel Ramirez Bernardes | Full-Stack Developer
+       Gabriel Ramirez | Full-Stack Developer
         </a>
     </h1>
     <div align="left">
