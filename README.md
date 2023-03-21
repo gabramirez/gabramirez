@@ -8,20 +8,14 @@
         </a>
     </h1>
     <div align="left">
-        <a href="afonsobezerra199@gmail.com">
+        <a href="lets.gamers12@gmail.com">
             <img alt="Gmail"src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">            
         </a>
-        <a href="https://www.linkedin.com/in/afonso-bezerra-33b495174/" target="_blank">
+        <a href="https://www.linkedin.com/in/gabriel-ram%C3%ADrez-bernardes-3854b3212/" target="_blank">
             <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
         </a>
-        <a href="https://www.instagram.com/teiir_/" target="_blank">
-            <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-        </a>
-        <a href="https://github.com/AfonsoBezerra" target="_blank">
+        <a href="https://github.com/gabramirez" target="_blank">
             <img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-        </a>
-        <a href="https://api.whatsapp.com/send?phone=5515988045279&text=Ol%C3%A1%20Afonso!%20" target="_blank">
-            <img alt="Whatsapp" src="https://img.shields.io/badge/whatsapp-04B404?style=for-the-badge&logo=whatsapp&logoColor=white">
         </a>
 </div>
 <h2></h2>
@@ -44,7 +38,7 @@
 <h2></h2>
 
 <div align="center">
-  <a href="https://github.com/AfonsoBezerra">
+  <a href="https://github.com/gabramirez">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AfonsoBezerra&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AfonsoBezerra&layout=compact&langs_count=7&theme=dracula"/>               </div>                     
 <h2></h2>
